@@ -1,6 +1,6 @@
 # Blogger Codes Repository
 
-Welcome to the **Blogger Codes Repository**! This folder is dedicated to sharing valuable Blogger codes, including custom scripts, templates, and modifications that can enhance your Blogger experience. Here, you will find codes that I have created as well as those collected from other sources.
+Welcome to the **Blogger Codes Repository** from Bytes Vibe! This folder is dedicated to sharing valuable Blogger codes, including custom scripts, templates, and modifications that can enhance your Blogger experience. Here, you will find codes that I have created as well as those collected from other sources.
 
 ## Table of Contents
 - [About This Repository](#about-this-repository)
@@ -29,7 +29,7 @@ I welcome contributions from the community! If you have useful Blogger codes to 
 3. Submit a pull request with a clear description of your code.
 
 ## License
-This project is licensed under the MIT License. Please refer to the [LICENSE](LICENSE) file for more information.
+This project is licensed under the MIT License. Please refer to the [LICENSE](https://github.com/bytesvibe/Blogger/blob/main/license.txt) file for more information.
 
 ## Contact
 If you have questions, suggestions, or feedback, feel free to reach out through any of the following platforms:
